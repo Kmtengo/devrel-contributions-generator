@@ -1,0 +1,77 @@
+title: 'Moses Mtengo: The Future in Tech'
+description: "I am an upcoming Software Entrepreneur with a deep passion for technology and innovation. I am currently a software development Student at PowerLearn Project, majoring in Python for Web Development and Dart for Mobile App Development. I am also a Gold Microsoft Learn Student Ambassador at Machakos University, where I mentor and train other students in in Microsoft developer technologies specifically on the Azure Cloud Platform.I am a huge believer in using technology to develop transformative solutions, as a result I'm constantly involved in innovation and was the team lead for iBoost, a team that won the 2023 Imagine Cup Epic Challenge and World Finals in the EMEA region."
+profile-image: images/moses.jpg
+socials:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/kalama-moses-a405971b0/
+  - name: Twitter
+    url: https://x.com/qurlarmah
+  - name: GitHub
+    url: https://github.com/Kmtengo
+  - name: Medium
+    url: https://medium.com/@mosesmtengo
+  - name: YouTube
+    url: https://www.youtube.com/channel/UC
+programs:
+  - name: Microsoft Learn Student Ambassadors
+    image: images/mlsa.png
+    url: https://studentambassadors.microsoft.com/
+  - name: Google Developer Student Clubs
+    image: images/gdsc.png
+    url: https://developers.google.com/community/gdsc
+  - name: GitHub Campus Experts
+    image: images/github.png
+    url: https://education.github.com/experts
+  - name: Machakos University Tech Community
+    image: images/mksu.png
+    url: https://www.mksu.ac.ke/
+gallery:
+  image1: images/moses1.jpg
+  image2: images/moses2.jpg
+  image3: images/moses3.jpg
+  image4: images/moses4.jpg
+  image5: images/moses5.jpg
+skills:
+  - name: Community Building
+    stage: Expert
+    level: 90
+  - name: Event Management
+    stage: Beginner
+    level: 20
+  - name: Public Speaking
+    stage: Advanced
+    level: 70
+  - name: Team Leadership
+    stage: Advanced
+    level: 60
+  - name: Technical Writing
+    stage: Intermediate
+    level: 50
+  - name: Project Management
+    stage: Intermediate
+    level: 40
+communities:
+  - name: Microsoft Learn Student Ambassadors
+    image: images/mlsa.png
+    role: Gold Student Ambassador
+    duration: October 2022 - May 2025
+    description: As a Gold Microsoft Learn Student Ambassador, I mentor and train other students in Microsoft developer technologies, specifically on the Azure Cloud Platform.
+    url: https://studentambassadors.microsoft.com/
+  - name: Google Developer Student Clubs
+    image: images/gdsc.png
+    role: GDSC Lead
+    duration: August 2022 - July 2023
+    description: As a GDSC Lead, I lead a community of students to learn about Google technologies and collaborate on projects that make a difference.
+    url: https://developers.google.com/community/gdsc
+  - name: GitHub Campus Experts
+    image: images/github.png
+    role: Campus Expert
+    duration: September 2024 - September 2025
+    description: As a GitHub Campus Expert, I help students learn about GitHub and other developer tools.
+    url: https://education.github.com/experts
+  - name: Machakos University Tech Community
+    image: images/mksu.png
+    role: Convener
+    duration: August 2022 - Present
+    description: As the convener of the Machakos University Tech Community, I organize tech events and workshops to help students learn about the latest technologies.
+    url: https://www.mksu.ac.ke/
